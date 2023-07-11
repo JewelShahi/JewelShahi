@@ -8,7 +8,8 @@ As a full-stack web developer, I have spent 2-3 years honing my skills in HTML, 
 
 In addition to my expertise in various programming languages and technologies, I also have experience working with Arduino. I have spent 4 months exploring the Arduino platform and developing projects using Arduino boards and the Arduino programming language.
 
-Overall, my diverse skill set in Java, JavaFX, JavaSwing, JavaSpringBoot, C++, C#, HTML, CSS, TailwindCSS, JavaScript, React.js, Next.js, Arduino and Unity makes me a versatile and well-rounded software developer. 🚀 With my experience in full-stack web development, I am capable of delivering end-to-end solutions for web-based projects.
+For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These are all popular and widely used database management systems, each with its own characteristics and use cases.
+
 ---
 
 ### 💻 Languages and tools
@@ -16,6 +17,19 @@ Overall, my diverse skill set in Java, JavaFX, JavaSwing, JavaSpringBoot, C++, C
 <img align="left" alt="JavaSpringBoot" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img align="left" alt="C++" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML5" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="TailwindCSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Arduino" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="left" alt="Unity" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="SQLite" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          
+          
           
 <br />
 
