@@ -1,4 +1,4 @@
-# Jewel Shahi
+<h1 align="center">Jewel Shahi</h1>
 
 👋 Hey there! I'm Jewel Shahi, a highly skilled software developer with expertise in various programming languages and technologies. With 4 years of experience in Java, I excel at building robust and scalable applications. 🌟 I also have 1-2 years of experience with JavaFX and JavaSwing, which are widely used for desktop app development.
 
