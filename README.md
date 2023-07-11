@@ -1,7 +1,5 @@
-<link rel="stylesheet" href="styles.css">
-
 <div align="center">
-  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="pixlcoding" width="100%" />
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="pixlcoding" width="100%" style="border: 5px solid red"/>
 </div>
 
 <h1 align="center">👋 Hey there! I'm Jewel Shahi</h1>
@@ -20,12 +18,7 @@ For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These ar
 
 ### 💻 Languages and Frameworks
 <div>
-
- <div class="tooltip">
-    <img align="left" alt="Java" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <span class="tooltiptext">Image Tooltip</span>
-  </div>
-  
+  <img align="left" alt="Java" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="left" alt="JavaSpringBoot" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="left" alt="C++" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="C#" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
