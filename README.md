@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="pixlcoding" width="100%" style="border: 5px solid red"/>
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="pixlcoding" width="100%" style="border-radus: 5px;"/>
 </div>
 
 <h1 align="center">👋 Hey there! I'm Jewel Shahi</h1>
