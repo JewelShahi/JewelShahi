@@ -17,7 +17,7 @@ For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These ar
 ---
 
 ### 💻 Languages and Frameworks
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <img alt="Java" width="35px" style="padding: 0 10px 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="JavaSpringBoot" width="35px" style="padding: 0 10px 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img alt="C++" width="35px" style="padding: 0 10px 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
