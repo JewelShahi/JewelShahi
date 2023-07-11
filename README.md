@@ -32,7 +32,7 @@ For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These ar
 
 #
 
-## Current status
+#### Current status
 - 🔭 I’m currently working on a NFT fullstack website, SlideShow website and a PhotoShop clone desktop program
 - 🌱 I’m currently learning Web development, Java, JavaSpringBoot, C# and Unity
 - 📫 How to reach me: jewelshahi10@gmail.com
