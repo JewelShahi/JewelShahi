@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="pixlcoding" width="100%" style="border-radus: 5px;"/>
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="pixlcoding" width="100%"/>
 </div>
 
 <h1 align="center">👋 Hey there! I'm Jewel Shahi</h1>
@@ -39,13 +39,13 @@ For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These ar
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhaWxnYmhicmF6c3ZreW9zNjV2ZWFxNWNnODZ2Mzc0bG4yMjhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img style="border-radius:50%" align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhaWxnYmhicmF6c3ZreW9zNjV2ZWFxNWNnODZ2Mzc0bG4yMjhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 Current status
-
 - 🔭 I’m currently working on: **a NFT fullstack website, SlideShow website and a PhotoShop clone**
 - 🌱 I’m currently learning: **Web development, Java, JavaSpringBoot, C# and Unity**
 - 📫 How to reach me: **jewelshahi10@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I liky Maths and Anime 😘😎 (◡ω◡)**
+
 #
