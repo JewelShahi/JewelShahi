@@ -32,11 +32,9 @@ For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These ar
 
 #
 
-Here are some ideas to get you started:
-
+## Current status
 - 🔭 I’m currently working on a NFT fullstack website, SlideShow website and a PhotoShop clone desktop program
 - 🌱 I’m currently learning Web development, Java, JavaSpringBoot, C# and Unity
-- 💬 Ask me about ...
 - 📫 How to reach me: jewelshahi10@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Guess what? I liky Maths and Anime 😘😎 (◡ω◡)
