@@ -32,7 +32,8 @@ For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These ar
 
 ---
 
-### Current status
+### 👨‍💻 Current status
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhaWxnYmhicmF6c3ZreW9zNjV2ZWFxNWNnODZ2Mzc0bG4yMjhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on a NFT fullstack website, SlideShow website and a PhotoShop clone desktop program
 - 🌱 I’m currently learning Web development, Java, JavaSpringBoot, C# and Unity
 - 📫 How to reach me: jewelshahi10@gmail.com
