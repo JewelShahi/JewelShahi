@@ -21,10 +21,10 @@ For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These ar
 ### 💻 Languages and Frameworks
 <div>
 
- <figure class="tooltip">
+ <div class="tooltip">
     <img align="left" alt="Java" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <figcaption class="tooltiptext">Image Tooltip</figcaption>
-  </figure>
+    <span class="tooltiptext">Image Tooltip</span>
+  </div>
   
   <img align="left" alt="JavaSpringBoot" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="left" alt="C++" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
