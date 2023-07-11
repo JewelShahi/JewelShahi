@@ -12,7 +12,7 @@ For managing databases, I have knowledge in MySQL, SQLite, and MongoDB. These ar
 
 ---
 
-### 💻 Languages and tools
+### 💻 Languages and Frameworks
 <img align="left" alt="Java" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="JavaSpringBoot" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img align="left" alt="C++" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
