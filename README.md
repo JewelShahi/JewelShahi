@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hey there! I'm Jewel Shahi</h1>
 
-👋 Hello! I'm a highly skilled software developer with expertise in various programming languages and technologies. I excel at building robust and scalable applications using **Java**. 🌟 I also have experience with **JavaFX** and **JavaSwing**, which are widely used for desktop app development.
+👋 Hello! I'm skilled programmer with expertise in various programming languages and technologies. I excel at building robust and scalable applications using **Java**. 🌟 I also have experience with **JavaFX** and **JavaSwing**, which are widely used for desktop app development.
 
 Additionally, I have experience in **C++**, a powerful language for system-level programming and performance optimization. 💪 Moreover, I have experience in **C#**, which allows me to create versatile applications using **Microsoft's .NET framework** and work with the popular game engine - **Unity**. I also have experience in **Java Spring Boot**, which is used for creating backends for websites.
 
