@@ -8,7 +8,7 @@
 
 Additionally, I have experience in **C++**, a powerful language for system-level programming and performance optimization. 💪 Moreover, I have experience in **C#**, which allows me to create versatile applications using **Microsoft's .NET framework** and work with the popular game engine - **Unity**. I also have experience in **Java Spring Boot**, which is used for creating backends for websites.
 
-As a **full-stack** web developer, I have honed my skills in **HTML**, **CSS**, and **JavaScript**. I have also gained expertise in **JavaScript frameworks** like **React.js** and **Next.js**, as well as the **CSS framework** - **TailwindCSS**. These tools are essential for crafting dynamic and interactive web pages. ⚡️ This knowledge empowers me to design visually appealing and responsive user interfaces.
+As a **full-stack** web developer, I have honed my skills in **HTML**, **CSS** and **JavaScript**. I have also gained expertise in **JavaScript frameworks** like **React.js** and **Next.js**, as well as the **CSS framework** - **TailwindCSS**. These tools are essential for crafting dynamic and interactive web pages. ⚡️ This knowledge empowers me to design visually appealing and responsive user interfaces.
 
 In addition to my expertise in various programming languages and technologies, I also have experience working with **Arduino**. I have explored the Arduino platform and developed projects using **Arduino boards** and the **Arduino programming language**.
 
