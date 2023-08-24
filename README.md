@@ -12,7 +12,7 @@ As a **full-stack** web developer, I have honed my skills in **HTML**, **CSS**, 
 
 In addition to my expertise in various programming languages and technologies, I also have experience working with **Arduino**. I have explored the Arduino platform and developed projects using **Arduino boards** and the **Arduino programming language**.
 
-For managing databases, I have knowledge in **MySQL**, **SQLite**, and **MongoDB**. These are popular and widely used database management systems, each with its own characteristics and use cases.
+For managing databases, I have knowledge in **MySQL**, **SQLite** and **MongoDB**. These are popular and widely used database management systems, each with its own characteristics and use cases.
 
 ---
 
