@@ -45,7 +45,7 @@ For managing databases, I have knowledge in **MySQL**, **SQLite** and **MongoDB*
 ### 👨‍💻 Current status
 - 🔭 I’m currently working on: **a NFT fullstack website and a PhotoShop clone (desktop application)**
 - 🌱 I’m currently learning: **Web development, Java, JavaSpringBoot, C# and Unity**
-- 📫 How to reach me: **jewelshahi10@gmail.com**
+- 📫 How to reach me: **joeimportant1020+github@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also liky Maths and Anime 💪😘😎💯 (◡ω◡)** 
 
