@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hey there! I'm Jewel Shahi</h1>
 
-👋 Hello! I'm skilled programmer with expertise in various programming languages and technologies. I excel at building robust and scalable applications using **Java**. 🌟 I also have experience with **JavaFX** and **JavaSwing**, which are widely used for desktop app development.
+👋 Hello! I'm skilled programmer with expertise in various programming languages and technologies. I excel at building robust and scalable applications using **Java**. 🌟 I also have experience with **JavaFX** and **JavaSwing**, which are widely used for desktop app development. And for backend I have knowledge in **PHP**.
 
 Additionally, I have experience in **C++**, a powerful language for system-level programming and performance optimization. 💪 Moreover, I have experience in **C#**, which allows me to create versatile applications using **Microsoft's .NET framework** and work with the popular game engine - **Unity**. I also have experience in **Java Spring Boot**, which is used for creating backends for websites.
 
@@ -29,6 +29,7 @@ For managing databases, I have knowledge in **MySQL**, **SQLite** and **MongoDB*
   <img title="JavaScript" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img title="React.js" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="Next.js" alt="Next" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img title="PHP" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img title="Arduino" alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img title="Unity" alt="Unity" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" /> 
   <img title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
