@@ -43,6 +43,6 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
 - 🌱 I’m currently learning: **PHP and C#**
 - 📫 How to reach me: **jewelshahi10@gmail.com**
 - 👨 Pronouns: **he/him**
-- ⚡ Fun fact: **Guess what? I also liky Maths and Anime 💪😘😎💯 (◡ω◡)** 
+- ⚡ Fun fact: **Guess what? I also like Maths and Anime 💪😎 (◡ω◡)** 
 
 #
