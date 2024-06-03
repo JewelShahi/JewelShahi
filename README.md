@@ -6,13 +6,11 @@
 
 👋 Hello! I'm skilled programmer with expertise in various programming languages and technologies. I excel at building robust and scalable applications using **Java**. 🌟 I also have experience with **JavaFX** and **JavaSwing**, which are widely used for desktop app development.
 
-Additionally, I have experience in **C++**, a powerful language for system-level programming and performance optimization. 💪 Moreover, I have experience in **C#**, which allows me to create versatile applications using **Microsoft's .NET framework** and work with the popular game engine - **Unity**. I also have experience in **Java Spring Boot**, which is used for creating backends for websites.
+Additionally, I have experience in **C++**, a powerful language for system-level programming and performance optimization. 💪 Moreover, I have experience in **C#**.
 
-As a **full-stack** web developer, I have honed my skills in **HTML**, **CSS** and **JavaScript**. I have also gained expertise in **JavaScript frameworks** like **React.js** and **Next.js**, as well as the **CSS framework** - **TailwindCSS**. These tools are essential for crafting dynamic and interactive web pages. ⚡️ This knowledge empowers me to design visually appealing and responsive user interfaces.  And for backend I have knowledge in **PHP**.
+As a **full-stack** web developer, I have skills in **HTML**, **CSS** and **JavaScript**. I have also gained expertise in **JavaScript frameworks** like **React.js** and **Next.js**, as well as the **CSS framework** - **TailwindCSS**. These tools are essential for crafting dynamic and interactive web pages. ⚡️ This knowledge empowers me to design visually appealing and responsive user interfaces.  And for backend I have knowledge in **PHP**.
 
-In addition to my expertise in various programming languages and technologies, I also have experience working with **Arduino**. I have explored the Arduino platform and developed projects using **Arduino boards** and the **Arduino programming language**.
-
-For managing databases, I have knowledge in **MySQL**, **SQLite** and **MongoDB**. These are popular and widely used database management systems, each with its own characteristics and use cases.
+For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **MongoDB**. 
 
 ---
 
@@ -20,7 +18,6 @@ For managing databases, I have knowledge in **MySQL**, **SQLite** and **MongoDB*
 <div align="left">
   <img title="Java" title="" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img title="JavaFX" alt="JavaFx" width="70px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />
-  <img title="Java Spring Boot" alt="JavaSpringBoot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img title="C++" alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img title="C#" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img title="HTML" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -30,8 +27,6 @@ For managing databases, I have knowledge in **MySQL**, **SQLite** and **MongoDB*
   <img title="React.js" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="Next.js" alt="Next" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img title="PHP" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img title="Arduino" alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img title="Unity" alt="Unity" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" /> 
   <img title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img title="SQLite" alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
   <img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />         
@@ -46,7 +41,7 @@ For managing databases, I have knowledge in **MySQL**, **SQLite** and **MongoDB*
 ### 👨‍💻 Current status
 - 🔭 I’m currently working on: **Nah, just chilling!**
 - 🌱 I’m currently learning: **PHP and C#**
-- 📫 How to reach me: **joeimportant1020+github@gmail.com**
+- 📫 How to reach me: **jewelshahi10+github@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also liky Maths and Anime 💪😘😎💯 (◡ω◡)** 
 
