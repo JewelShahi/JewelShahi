@@ -44,6 +44,6 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
 - 📫 How to reach me: **jewelshahi10@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also like Maths and Anime 💪😎 (◡ω◡)** 
-- Replit: **(JoeTheBest)[https://replit.com/@JoeTheBest]**
+- Replit: **[JoeTheBest](https://replit.com/@JoeTheBest)**
   
 #
