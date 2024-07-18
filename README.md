@@ -41,7 +41,7 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
 ### 👨‍💻 Current status
 - 🔭 I’m currently working on: **Learning PHP... ☠💀**
 - 🌱 I’m currently learning: **PHP and C#**
-- 📫 How to reach me: **jewelshahi10@gmail.com**
+- 📫 How to reach me: **jewelshahi10+github@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also like Maths and Anime 💪😎 (◡ω◡)** 
   
