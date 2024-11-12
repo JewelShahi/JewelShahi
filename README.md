@@ -10,6 +10,8 @@ Additionally, I have experience in **C++**, a powerful language for system-level
 
 As a **full-stack** web developer, I have skills in **HTML**, **CSS** and **JavaScript**. I have also gained expertise in **JavaScript frameworks** like **React.js** and **Next.js**, as well as the **CSS framework** - **TailwindCSS**. These tools are essential for crafting dynamic and interactive web pages. ⚡️ This knowledge empowers me to design visually appealing and responsive user interfaces.  And for backend I have knowledge in **PHP**.
 
+I started learning **Python** and some of it's biggest libraries - **Pandas** and **NumPy**.
+
 For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **MongoDB**. 
 
 ---
@@ -29,7 +31,10 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
   <img title="PHP" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img title="MySQL" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img title="SQLite" alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-  <img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />         
+  <img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
+  <img title="Python" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img title="NumPy" alt="NumPy" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+  <img title="Pandas " alt="Pandas" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 </div>
 
 <br />
