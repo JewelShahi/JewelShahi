@@ -20,6 +20,7 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
 <div align="left">
   <img title="Java" title="" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img title="JavaFX" alt="JavaFx" width="70px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />
+  <img title="C" alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img title="C++" alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img title="C#" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img title="HTML" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
