@@ -10,7 +10,7 @@ Additionally, I have experience in **C++**, a powerful language for system-level
 
 As a **full-stack** web developer, I have skills in **HTML**, **CSS** and **JavaScript**. I have also gained expertise in **JavaScript frameworks** like **React.js** and **Next.js**, as well as the **CSS framework** - **TailwindCSS**. These tools are essential for crafting dynamic and interactive web pages. ⚡️ This knowledge empowers me to design visually appealing and responsive user interfaces.  And for backend I have knowledge in **PHP**.
 
-I started learning **Python** and some of it's biggest libraries - **Pandas** and **NumPy**.
+I started learning **Python** and some of it's biggest libraries - **Pandas**, **Django** and **NumPy**.
 
 For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **MongoDB**. 
 
@@ -36,6 +36,7 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
   <img title="Python" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img title="NumPy" alt="NumPy" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
   <img title="Pandas " alt="Pandas" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img title="Django " alt="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 </div>
 
 <br />
@@ -45,8 +46,8 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
 <img style="border-radius:50%" align="right" title="" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhaWxnYmhicmF6c3ZreW9zNjV2ZWFxNWNnODZ2Mzc0bG4yMjhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 Current status
-- 🔭 I’m currently working on: **Learning PHP... ☠💀**
-- 🌱 I’m currently learning: **PHP and C#**
+- 🔭 I’m currently working on: **FullStack with Python and web development**
+- 🌱 I’m currently learning: **Python, Pandas, Django... ☠💀**
 - 📫 How to reach me: **jewelshahi10+github@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also like Maths and Anime 💪😎 (◡ω◡)** 
