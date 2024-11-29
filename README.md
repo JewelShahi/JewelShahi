@@ -48,7 +48,7 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
 ### 👨‍💻 Current status
 - 🔭 I’m currently working on: **FullStack with Python and web development**
 - 🌱 I’m currently learning: **Python, Pandas, Django... ☠💀**
-- 📫 How to reach me: **jewelshahi10+github@gmail.com**
+- 📫 How to reach me: **jewelshahi10@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also like Maths and Anime 💪😎 (◡ω◡)** 
   
