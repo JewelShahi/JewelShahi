@@ -4,17 +4,46 @@
 
 <h1 align="center">👋 Hey there! I'm Jewel Shahi</h1>
 
-👋 Hello! I'm skilled programmer with expertise in various programming languages and technologies. I excel at building robust and scalable applications using **Java**. 🌟 I also have experience with **JavaFX** and **JavaSwing**, which are widely used for desktop app development.
+I'm a **skilled programmer** with a passion for building robust, scalable, and user-friendly applications. Here's a bit about what I do:
 
-Additionally, I have experience in **C++**, a powerful language for system-level programming and performance optimization. 💪 Moreover, I have experience in **C#** too.
+## 💻 Programming Languages
 
-As a **full-stack** web developer, I have skills in **HTML**, **CSS** and **JavaScript**. I have also gained expertise in **JavaScript frameworks** like **React.js** and **Next.js**, as well as the **CSS framework** - **TailwindCSS**. These tools are essential for crafting dynamic and interactive web pages. ⚡️ This knowledge empowers me to design visually appealing and responsive user interfaces.  And for backend I have knowledge in **PHP**.
+- **Java** – My go-to for building reliable and scalable applications (⭐️⭐️⭐️⭐️⭐️)  
+- **JavaFX** & **Java Swing** – For creating rich desktop applications (⭐️⭐️⭐️⭐️)  
+- **JavaScript** – Strong understanding of dynamic web scripting and client-side logic (⭐️⭐️⭐️⭐️)  
+- **C++** – Great for system-level programming and performance tuning (⭐️⭐️⭐️)  
+- **Python** – Comfortable with scripting and data-focused libraries like Pandas & NumPy (⭐️⭐️⭐️)  
+- **C** – Solid foundation in low-level programming and memory management (⭐️⭐️⭐️)  
+- **C#** – Experience with Windows development and OOP concepts (⭐️⭐️)
 
-I started learning **Python** and some of it's biggest libraries - **Pandas**, **Django** and **NumPy**.
 
-For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **MongoDB**. 
+## 🌐 Full-Stack Web Development
 
----
+I work across the stack to create responsive and interactive web experiences.
+
+### Frontend:
+
+- **HTML** (⭐️⭐️⭐️⭐️⭐️), **CSS** (⭐️⭐️⭐️⭐️), **JavaScript** (⭐️⭐️⭐️⭐️)
+- **React.js** (⭐️⭐️⭐️⭐️), **Next.js** (⭐️⭐️⭐️⭐️) – For building fast, modern UIs
+- **TailwindCSS** (⭐️⭐️⭐️) – My favorite utility-first CSS framework for stylish and responsive designs
+- **DaisyUI** (⭐️⭐️⭐️) – A great Tailwind CSS component library that speeds up UI development
+
+### Backend:
+
+- **Node.js** with **Express.js** (⭐️⭐️⭐️⭐️) – For building fast and scalable APIs
+- **PHP** (⭐️⭐️⭐️) – Still useful in many web development scenarios!
+
+## 🐍 Exploring Python
+
+Recently started diving into **Python**, focusing on:
+
+- **Pandas** & **NumPy** – For data manipulation and numerical computing (new to these libraries)
+
+## 🗃️ Databases
+
+- **MySQL** (⭐️⭐️⭐️⭐️), **SQLite** (⭐️⭐️⭐️⭐️) – Solid relational database experience
+- **MongoDB** (⭐️⭐️⭐️⭐️) – Just starting out, but loving the NoSQL flexibility!
+
 
 ### 💻 Languages and Frameworks
 <div align="left">
@@ -36,7 +65,8 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
   <img title="Python" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img title="NumPy" alt="NumPy" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
   <img title="Pandas " alt="Pandas" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img title="Django " alt="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img title="Node.js " alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img title="Express.js " alt="Express.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 </div>
 
 <br />
@@ -46,8 +76,8 @@ For managing databases, I have knowledge in **MySQL**/**SQLite** and a bit **Mon
 <img style="border-radius:50%" align="right" title="" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhaWxnYmhicmF6c3ZreW9zNjV2ZWFxNWNnODZ2Mzc0bG4yMjhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 Current status
-- 🔭 I’m currently working on: **FullStack with Python and web development**
-- 🌱 I’m currently learning: **Python, Pandas, Django... ☠💀**
+- 🔭 I’m currently working on: **Node.js project with Express.js and React.js**
+- 🌱 I’m currently learning: **Fullstack with Node.js**
 - 📫 How to reach me: **jewelshahi10@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also like Maths and Anime 💪😎 (◡ω◡)** 
