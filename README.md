@@ -9,7 +9,7 @@ I'm a **skilled programmer** with a passion for building robust, scalable, and u
 ## 💻 Programming Languages
 
 - **Java** – My go-to for building reliable and scalable applications (⭐️⭐️⭐️⭐️⭐️)  
-- **JavaFX** & **Java Swing** – For creating rich desktop applications (⭐️⭐️⭐️⭐️)  
+- **JavaFX** & **Java Swing** – For creating rich desktop applications (⭐️⭐️⭐️)  
 - **JavaScript** – Strong understanding of dynamic web scripting and client-side logic (⭐️⭐️⭐️⭐️)  
 - **C++** – Great for system-level programming and performance tuning (⭐️⭐️⭐️)  
 - **Python** – Comfortable with scripting and data-focused libraries like Pandas & NumPy (⭐️⭐️⭐️)  
@@ -24,7 +24,7 @@ I work across the stack to create responsive and interactive web experiences.
 ### Frontend:
 
 - **HTML** (⭐️⭐️⭐️⭐️⭐️), **CSS** (⭐️⭐️⭐️⭐️), **JavaScript** (⭐️⭐️⭐️⭐️)
-- **React.js** (⭐️⭐️⭐️⭐️), **Next.js** (⭐️⭐️⭐️⭐️) – For building fast, modern UIs
+- **React.js** (⭐️⭐️⭐️), **Next.js** (⭐️⭐️⭐️) – For building fast, modern UIs
 - **TailwindCSS** (⭐️⭐️⭐️) – My favorite utility-first CSS framework for stylish and responsive designs
 - **DaisyUI** (⭐️⭐️⭐️) – A great Tailwind CSS component library that speeds up UI development
 
@@ -42,7 +42,7 @@ Recently started diving into **Python**, focusing on:
 ## 🗃️ Databases
 
 - **MySQL** (⭐️⭐️⭐️⭐️), **SQLite** (⭐️⭐️⭐️⭐️) – Solid relational database experience
-- **MongoDB** (⭐️⭐️⭐️⭐️) – Just starting out, but loving the NoSQL flexibility!
+- **MongoDB** (⭐️⭐️⭐️⭐️)
 
 
 ### 💻 Languages and Frameworks
