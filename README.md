@@ -81,5 +81,8 @@ Recently started diving into **Python**, focusing on:
 - 📫 How to reach me: **jewelshahi10@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also like Maths and Anime 💪😎 (◡ω◡)** 
+
+
+
   
 #
