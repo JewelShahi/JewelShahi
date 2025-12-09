@@ -42,7 +42,8 @@ Recently started diving into **Python**, focusing on:
 
 ## 🗃️ Databases
 
-- **MySQL** (⭐️⭐️⭐️⭐️), **SQLite** (⭐️⭐️⭐️⭐️) – Solid relational database experience
+- **MySQL** (⭐️⭐️⭐️⭐️)
+- **SQLite** (⭐️⭐️⭐️⭐️)
 - **MongoDB** (⭐️⭐️⭐️⭐️)
 
 
