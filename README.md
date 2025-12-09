@@ -46,8 +46,8 @@ Recently started diving into **Python**, focusing on:
 
 
 ### 💻 Languages and Frameworks
-<div align="left">
-  <img title="Java" title="" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<div style="display: flex; gap: 1px; align-items: center;">
+  <img title="Java" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img title="JavaFX" alt="JavaFx" width="70px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />
   <img title="C" alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img title="C++" alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -64,9 +64,9 @@ Recently started diving into **Python**, focusing on:
   <img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
   <img title="Python" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img title="NumPy" alt="NumPy" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-  <img title="Pandas " alt="Pandas" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img title="Node.js " alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img title="Express.js " alt="Express.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img title="Pandas" alt="Pandas" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img title="Node.js" alt="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img title="Express.js" alt="Express.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 </div>
 
 <br />
