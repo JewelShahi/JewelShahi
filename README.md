@@ -2,6 +2,7 @@
   <img src="https://github.com/JewelShahi/JewelShahi/blob/main/img/pixelated-programming-img.gif" title="" alt="pixlcoding" width="100%"/>
 </div>
 
+
 <h1 align="center">👋 Hey there! I'm Jewel Shahi</h1>
 
 I'm a **skilled programmer** with a passion for building robust, scalable, and user-friendly applications. Here's a bit about what I do:
