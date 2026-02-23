@@ -79,7 +79,7 @@ Recently started diving into **Python**, focusing on:
 
 ### 👨‍💻 Current status
 - 🔭 I’m currently working on: **Social Media Project** and **Github Clone Project for SAP**
-- 🌱 I’m currently learning: **Fullstack with Node.js**
+- 🌱 I’m currently learning: **Full stack web development with JS and Python**, also **PostgreSQL**
 - 📫 How to reach me: **jewelshahi10@gmail.com**
 - 👨 Pronouns: **he/him**
 - ⚡ Fun fact: **Guess what? I also like Maths and Anime 💪😎 (◡ω◡)** 
