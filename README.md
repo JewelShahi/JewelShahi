@@ -78,7 +78,7 @@ Recently started diving into **Python**, focusing on:
 <img style="border-radius:50%" align="right" title="" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhaWxnYmhicmF6c3ZreW9zNjV2ZWFxNWNnODZ2Mzc0bG4yMjhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 Current status
-- 🔭 I’m currently working on: **Node.js project with Express.js and React.js**
+- 🔭 I’m currently working on: **Social Media Project ** and **Github Clone Project for SAP**
 - 🌱 I’m currently learning: **Fullstack with Node.js**
 - 📫 How to reach me: **jewelshahi10@gmail.com**
 - 👨 Pronouns: **he/him**
