@@ -74,7 +74,7 @@ Recently started diving into **Python**, focusing on:
 <br />
 
 ---
-### Part of TU Sofia Racing Team - (https://tusofiaracing.com/)[https://tusofiaracing.com/]
+### Part of TU Sofia Racing Team - [https://tusofiaracing.com/](https://tusofiaracing.com/)
 ---
 
 <img style="border-radius:50%" align="right" title="" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhaWxnYmhicmF6c3ZreW9zNjV2ZWFxNWNnODZ2Mzc0bG4yMjhxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
